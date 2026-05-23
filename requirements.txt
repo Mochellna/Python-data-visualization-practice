@@ -1,0 +1,10 @@
+# Data Processing
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Notebook Environment
+jupyter
